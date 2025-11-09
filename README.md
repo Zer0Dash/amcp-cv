@@ -1,3 +1,1 @@
-[# amcp-cv
-Резюме
-](https://zer0dash.github.io/amcp-cv/)
+https://github-zer0dash.github.io/amcp-cv/cv
